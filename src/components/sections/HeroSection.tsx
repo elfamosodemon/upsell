@@ -13,7 +13,7 @@ const HeroSection: React.FC = () => {
       
       <h1 className="mb-6 text-3xl font-extrabold leading-tight tracking-tight text-white sm:text-4xl md:text-5xl">
         <span className="block mt-2">❌ NÃO FECHE ESSA PÁGINA ❌</span>
-        <span className="block mt-2 text-yellow-400">⚠️ Você acabou de garantir sua vaga, mas falta UMA COISA FUNDAMENTAL pra acelerar seus resultados! ⚠️</span>
+        <span className="block mt-2 text-yellow-400">⚠️ Você acabou de garantir seu Mounjaro de Pobre, mas falta UMA COISA FUNDAMENTAL pra acelerar seus resultados! ⚠️</span>
       </h1>
       
       <div className="mt-8 mb-10">
@@ -31,14 +31,14 @@ const HeroSection: React.FC = () => {
         </p>
       </div>
      <Button
-  onClick={() => window.open('https://pay.pixpagamentoseguro.store/eApQgz2Yd22gEb7', '_blank', 'noopener,noreferrer')}
+  onClick={() => window.open('https://checkout.pixpagamentoseguro.store/VCCL1O8SBV90', '_blank', 'noopener,noreferrer')}
   className="bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 text-white focus:ring-green-500"
 >
-  QUERO ADICIONAR AGORA
+  QUERO FAZER MINHA CONSULTA AGORA!
   <ArrowRight className="w-5 h-5 ml-2" />
 </Button>
       <p className="mt-4 text-lg font-medium text-gray-400">
-        👉 Clique no botão acima e garanta seu acesso AGORA!
+        👉 Clique no botão acima e faça sua consulta!
       </p>
     </section>
   );
